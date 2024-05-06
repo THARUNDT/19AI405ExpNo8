@@ -110,7 +110,7 @@ MORE = 1085<br>
 <hr>
 MONEY = 10652<br>
 <hr>
-<h2>Sample Input and Output:</h2>
+## Sample Input and Output:
 SEND = 9567<br>
 MORE = 1085<br>
 <hr>
