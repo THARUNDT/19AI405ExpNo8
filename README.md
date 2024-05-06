@@ -103,7 +103,7 @@ if solution:
     print(f'MONEY = {MONEY}')
 else:
     print("No solution found.")
-```
+``
 <h2>Sample Input and Output:</h2>
 SEND = 9567<br>
 MORE = 1085<br>
